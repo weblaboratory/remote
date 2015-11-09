@@ -1,0 +1,13 @@
+{
+    "name": "weblab/remote",
+	"description": "Weblab remote",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Timkor",
+            "email": "timothy.korse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
